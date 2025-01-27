@@ -1,7 +1,6 @@
 import "@/styles/globals.css";
 import type { AppProps } from "next/app";
 import { Inter } from 'next/font/google'
-import TawkToChat from "@/components/TawkToChat";
 
 const inter = Inter({ subsets: ['latin'] })
 
