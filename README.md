@@ -25,11 +25,22 @@ Here're some of the project's best features:
 ```
 npm install
 ```
+<p>or: Install modules - yarn command:</p>
 
-<p>3. Run project</p>
+```
+yarn install
+```
+
+<p>3. Run project - node.js command:</p>
 
 ```
 npm run dev
+```
+
+<p>or: Run project - yarn command:</p>
+
+```
+idk xd
 ```
 
 <p>4. Go to <a href="http://localhost:3000">localhost</a></p>
